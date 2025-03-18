@@ -3,6 +3,11 @@
 <p>💻 Desarrollador de Software | Apasionado por la tecnología</p>
 </div>
 
+- 🔭 Actualmente estoy trabajando en **Melody** y **El sabor Dorado**
+- 🌱 Actualmente estoy aprendiendo **Laravel, Vue, Angular, Rust, NVIDIA Nsight Graphics**
+- 💬 Pregúntame sobre **React, Next**
+- 📫 Cómo contactarme **trejoduque10@hotmail.com**
+
 <h2>🚀 Languages and Tools I Use</h2>
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
