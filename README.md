@@ -72,7 +72,7 @@
     <br>
     <img src="recursos/melody.gif">
     <br>
-    🔗 <a href="https://github.com/Alex-Trejo/Melody.git" target="_blank">Repositorio</a> |  
+    🔗 <a href="https://github.com/Alex-Trejo/melody.git" target="_blank">Repositorio</a> |  
     🚀 <a href="https://melody-three.vercel.app/" target="_blank">Deploy</a>
   </li>
 </ul>
