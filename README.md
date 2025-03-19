@@ -77,6 +77,14 @@
       🚀 <a href="https://melody-three.vercel.app/" target="_blank">Deploy</a>
     </div>
   </li>
+
+  <li>
+    🍴 <strong> El sabor Dorado </strong> - Aplicación movil para al gestión y la asignación de pedidos usando Expo go, React Native, Api rest, Firebase
+    🔗 <a href="#" target="_blank">Repositorio</a> |  
+    🚀 <a href="https://eaxmen-app-delivery.vercel.app/" target="_blank">Deploy backend</a>
+  </li>
+
+  
 </ul>
 
 
