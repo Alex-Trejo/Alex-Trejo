@@ -70,7 +70,7 @@
     <br>
     <strong> 🗒 Nota: </strong> Para poder repodrucir la música, se debe ingresar con una cuenta de Spotify premium
     <br>
-    <img src="recursos/melody-three.gif" width="300">
+    <img src="recursos/melody-three.vercel.app - Google Chrome 2025-03-18 23-22-09.gif">
     <br>
     🔗 <a href="https://github.com/Alex-Trejo/Melody.git" target="_blank">Repositorio</a> |  
     🚀 <a href="https://melody-three.vercel.app/" target="_blank">Deploy</a>
