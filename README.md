@@ -69,6 +69,9 @@
     🎹 <strong>Melody</strong> - Una biblioteca musical interactiva desarrollada con Next.js, Firestore y la API de Spotify.  
     <br>
     <strong> 🗒 Nota: </strong> Para poder repodrucir la música, se debe ingresar con una cuenta de Spotify premium
+
+    <img> src="./recursos/melody-three.vercel.app - Google Chrome 2025-03-18 23-22-09.gif" width= "300">
+
     <br>
     🔗 <a href="https://github.com/Alex-Trejo/Melody.git" target="_blank">Repositorio</a> |  
     🚀 <a href="https://melody-three.vercel.app/" target="_blank">Deploy</a>
